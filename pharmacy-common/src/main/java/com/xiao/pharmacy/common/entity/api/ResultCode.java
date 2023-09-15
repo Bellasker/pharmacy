@@ -1,4 +1,4 @@
-package com.xiao.pharmacy.common.entity.Api;
+package com.xiao.pharmacy.common.entity.api;
 
 /**
  * @Author: xiaoxiongwen

@@ -44,6 +44,12 @@
             <version>1.8.9</version>
         </dependency>
         <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.9.6</version>
+        </dependency>
+
+        <dependency>
             <groupId>com.xiao</groupId>
             <artifactId>pharmacy-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
